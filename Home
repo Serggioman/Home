@@ -1,0 +1,8 @@
+# Distance of planet from sun in AU
+distance_from_sun = 1.52  # Mars distance from sun in AU
+
+# Calculate square of distance
+square_of_distance = distance_from_sun ** 2
+
+# Print the result
+print(f"The square of the distance of the planet from the sun is: {square_of_distance} AU^2")
